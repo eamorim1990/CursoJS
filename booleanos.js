@@ -35,3 +35,5 @@ Para finalizar....
  
 let nome = ''
 console.log(nome || 'Desconhecido')
+
+jj
